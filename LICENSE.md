@@ -1,0 +1,2 @@
+# LICENSE
+## Sampe license text
